@@ -8,6 +8,7 @@ public class kitelogin2 {
 	
   @Test
   public void f() {
+
 	  
 	  WebDriver driver= new ChromeDriver();
 	  driver.manage().window().maximize();
